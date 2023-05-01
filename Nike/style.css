@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 body{
+    height: 100vh;
     padding: 0;
     margin: 0;
     background-image: url(grey-paper-texture\ \(1\)\ 1.png);
@@ -543,7 +544,7 @@ footer{
     height: 451.5px;
     background: #030303;
     border-radius: 32px 32px 0px 0px;
-    color: white;
+    color: #FFFFFF;
 }
 .footer1{
     padding-top: 60px;
